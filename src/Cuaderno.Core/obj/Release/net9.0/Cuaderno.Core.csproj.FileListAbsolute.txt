@@ -1,0 +1,13 @@
+D:\Programacion\C#\CuadernoCLI\src\Cuaderno.Core\bin\Release\net9.0\Cuaderno.Core.deps.json
+D:\Programacion\C#\CuadernoCLI\src\Cuaderno.Core\bin\Release\net9.0\Cuaderno.Core.dll
+D:\Programacion\C#\CuadernoCLI\src\Cuaderno.Core\bin\Release\net9.0\Cuaderno.Core.pdb
+D:\Programacion\C#\CuadernoCLI\src\Cuaderno.Core\obj\Release\net9.0\Cuaderno.Core.csproj.AssemblyReference.cache
+D:\Programacion\C#\CuadernoCLI\src\Cuaderno.Core\obj\Release\net9.0\Cuaderno.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\C#\CuadernoCLI\src\Cuaderno.Core\obj\Release\net9.0\Cuaderno.Core.AssemblyInfoInputs.cache
+D:\Programacion\C#\CuadernoCLI\src\Cuaderno.Core\obj\Release\net9.0\Cuaderno.Core.AssemblyInfo.cs
+D:\Programacion\C#\CuadernoCLI\src\Cuaderno.Core\obj\Release\net9.0\Cuaderno.Core.csproj.CoreCompileInputs.cache
+D:\Programacion\C#\CuadernoCLI\src\Cuaderno.Core\obj\Release\net9.0\Cuaderno.Core.sourcelink.json
+D:\Programacion\C#\CuadernoCLI\src\Cuaderno.Core\obj\Release\net9.0\Cuaderno.Core.dll
+D:\Programacion\C#\CuadernoCLI\src\Cuaderno.Core\obj\Release\net9.0\refint\Cuaderno.Core.dll
+D:\Programacion\C#\CuadernoCLI\src\Cuaderno.Core\obj\Release\net9.0\Cuaderno.Core.pdb
+D:\Programacion\C#\CuadernoCLI\src\Cuaderno.Core\obj\Release\net9.0\ref\Cuaderno.Core.dll

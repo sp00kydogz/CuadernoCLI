@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cuaderno.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8b182b820af630ba734e576e4b3d3df8785a698")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4712ef58a9b4823d89ddd46ee6a8665ab79be03d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cuaderno.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cuaderno.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
