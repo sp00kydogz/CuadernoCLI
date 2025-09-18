@@ -1,0 +1,4 @@
+#Ignorar lo que no aporta (gitignore minimo)
+*.log
+*.bak
+cuaderno.index.db
