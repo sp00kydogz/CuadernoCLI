@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cuaderno.CLI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8b182b820af630ba734e576e4b3d3df8785a698")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cuaderno.CLI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cuaderno.CLI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

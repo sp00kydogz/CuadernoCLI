@@ -32,3 +32,4 @@ D:\Programacion\C#\CuadernoCLI\src\Cuaderno.CLI\obj\Debug\net9.0\refint\Cuaderno
 D:\Programacion\C#\CuadernoCLI\src\Cuaderno.CLI\obj\Debug\net9.0\Cuaderno.CLI.pdb
 D:\Programacion\C#\CuadernoCLI\src\Cuaderno.CLI\obj\Debug\net9.0\Cuaderno.CLI.genruntimeconfig.cache
 D:\Programacion\C#\CuadernoCLI\src\Cuaderno.CLI\obj\Debug\net9.0\ref\Cuaderno.CLI.dll
+D:\Programacion\C#\CuadernoCLI\src\Cuaderno.CLI\obj\Debug\net9.0\Cuaderno.CLI.sourcelink.json

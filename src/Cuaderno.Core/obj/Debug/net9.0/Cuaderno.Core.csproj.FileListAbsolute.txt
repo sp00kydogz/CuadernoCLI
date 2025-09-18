@@ -10,3 +10,4 @@ d:\Programacion\C#\CuadernoCLI\src\Cuaderno.Core\obj\Debug\net9.0\Cuaderno.Core.
 d:\Programacion\C#\CuadernoCLI\src\Cuaderno.Core\obj\Debug\net9.0\refint\Cuaderno.Core.dll
 d:\Programacion\C#\CuadernoCLI\src\Cuaderno.Core\obj\Debug\net9.0\Cuaderno.Core.pdb
 d:\Programacion\C#\CuadernoCLI\src\Cuaderno.Core\obj\Debug\net9.0\ref\Cuaderno.Core.dll
+d:\Programacion\C#\CuadernoCLI\src\Cuaderno.Core\obj\Debug\net9.0\Cuaderno.Core.sourcelink.json

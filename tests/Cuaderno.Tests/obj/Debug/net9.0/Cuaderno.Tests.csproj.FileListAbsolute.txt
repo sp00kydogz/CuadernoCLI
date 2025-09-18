@@ -115,3 +115,4 @@ d:\Programacion\C#\CuadernoCLI\tests\Cuaderno.Tests\obj\Debug\net9.0\refint\Cuad
 d:\Programacion\C#\CuadernoCLI\tests\Cuaderno.Tests\obj\Debug\net9.0\Cuaderno.Tests.pdb
 d:\Programacion\C#\CuadernoCLI\tests\Cuaderno.Tests\obj\Debug\net9.0\Cuaderno.Tests.genruntimeconfig.cache
 d:\Programacion\C#\CuadernoCLI\tests\Cuaderno.Tests\obj\Debug\net9.0\ref\Cuaderno.Tests.dll
+d:\Programacion\C#\CuadernoCLI\tests\Cuaderno.Tests\obj\Debug\net9.0\Cuaderno.Tests.sourcelink.json
