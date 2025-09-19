@@ -77,102 +77,6 @@
           }
         }
       },
-      "Microsoft.NET.ILLink.Tasks/9.0.9": {
-        "type": "package",
-        "build": {
-          "build/Microsoft.NET.ILLink.Tasks.props": {}
-        }
-      },
-      "Newtonsoft.Json/13.0.4": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Newtonsoft.Json.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/Newtonsoft.Json.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "Spectre.Console/0.51.1": {
-        "type": "package",
-        "compile": {
-          "lib/net9.0/Spectre.Console.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net9.0/Spectre.Console.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "YamlDotNet/16.3.0": {
-        "type": "package",
-        "compile": {
-          "lib/net8.0/YamlDotNet.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net8.0/YamlDotNet.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "Cuaderno.Core/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v9.0",
-        "dependencies": {
-          "LibGit2Sharp": "0.31.0",
-          "Newtonsoft.Json": "13.0.4",
-          "YamlDotNet": "16.3.0"
-        },
-        "compile": {
-          "bin/placeholder/Cuaderno.Core.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Cuaderno.Core.dll": {}
-        }
-      }
-    },
-    "net9.0/win-x64": {
-      "LibGit2Sharp/0.31.0": {
-        "type": "package",
-        "dependencies": {
-          "LibGit2Sharp.NativeBinaries": "[2.0.323]"
-        },
-        "compile": {
-          "lib/net8.0/LibGit2Sharp.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net8.0/LibGit2Sharp.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "LibGit2Sharp.NativeBinaries/2.0.323": {
-        "type": "package",
-        "native": {
-          "runtimes/win-x64/native/git2-3f4182d.dll": {}
-        },
-        "build": {
-          "build/_._": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/_._": {}
-        }
-      },
-      "Microsoft.NET.ILLink.Tasks/9.0.9": {
-        "type": "package",
-        "build": {
-          "build/Microsoft.NET.ILLink.Tasks.props": {}
-        }
-      },
       "Newtonsoft.Json/13.0.4": {
         "type": "package",
         "compile": {
@@ -279,57 +183,6 @@
         "runtimes/win-x86/native/git2-3f4182d.dll"
       ]
     },
-    "Microsoft.NET.ILLink.Tasks/9.0.9": {
-      "sha512": "cHi1os/s6aobEgNkbOh/jW+ru//rHuedvj4PmTh2mMY7et/mJjqphBeXeKCesDvMd0+E2JyX9EPZZC4VRKslXg==",
-      "type": "package",
-      "path": "microsoft.net.illink.tasks/9.0.9",
-      "hasTools": true,
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "LICENSE.TXT",
-        "Sdk/Sdk.props",
-        "THIRD-PARTY-NOTICES.TXT",
-        "analyzers/dotnet/cs/ILLink.CodeFixProvider.dll",
-        "analyzers/dotnet/cs/ILLink.RoslynAnalyzer.dll",
-        "build/Microsoft.NET.ILLink.Analyzers.props",
-        "build/Microsoft.NET.ILLink.Tasks.props",
-        "build/Microsoft.NET.ILLink.targets",
-        "microsoft.net.illink.tasks.9.0.9.nupkg.sha512",
-        "microsoft.net.illink.tasks.nuspec",
-        "tools/net472/ILLink.Tasks.dll",
-        "tools/net472/ILLink.Tasks.dll.config",
-        "tools/net472/Mono.Cecil.Mdb.dll",
-        "tools/net472/Mono.Cecil.Pdb.dll",
-        "tools/net472/Mono.Cecil.Rocks.dll",
-        "tools/net472/Mono.Cecil.dll",
-        "tools/net472/Sdk/Sdk.props",
-        "tools/net472/System.Buffers.dll",
-        "tools/net472/System.Collections.Immutable.dll",
-        "tools/net472/System.Memory.dll",
-        "tools/net472/System.Numerics.Vectors.dll",
-        "tools/net472/System.Reflection.Metadata.dll",
-        "tools/net472/System.Runtime.CompilerServices.Unsafe.dll",
-        "tools/net472/build/Microsoft.NET.ILLink.Analyzers.props",
-        "tools/net472/build/Microsoft.NET.ILLink.Tasks.props",
-        "tools/net472/build/Microsoft.NET.ILLink.targets",
-        "tools/net9.0/ILLink.Tasks.deps.json",
-        "tools/net9.0/ILLink.Tasks.dll",
-        "tools/net9.0/Mono.Cecil.Mdb.dll",
-        "tools/net9.0/Mono.Cecil.Pdb.dll",
-        "tools/net9.0/Mono.Cecil.Rocks.dll",
-        "tools/net9.0/Mono.Cecil.dll",
-        "tools/net9.0/Sdk/Sdk.props",
-        "tools/net9.0/build/Microsoft.NET.ILLink.Analyzers.props",
-        "tools/net9.0/build/Microsoft.NET.ILLink.Tasks.props",
-        "tools/net9.0/build/Microsoft.NET.ILLink.targets",
-        "tools/net9.0/illink.deps.json",
-        "tools/net9.0/illink.dll",
-        "tools/net9.0/illink.runtimeconfig.json",
-        "useSharedDesignerContext.txt"
-      ]
-    },
     "Newtonsoft.Json/13.0.4": {
       "sha512": "pdgNNMai3zv51W5aq268sujXUyx7SNdE2bj1wZcWjAQrKMFZV260lbqYop1d2GM67JI1huLRwxo9ZqnfF/lC6A==",
       "type": "package",
@@ -411,7 +264,6 @@
   "projectFileDependencyGroups": {
     "net9.0": [
       "Cuaderno.Core >= 1.0.0",
-      "Microsoft.NET.ILLink.Tasks >= 9.0.9",
       "Spectre.Console >= 0.51.1"
     ]
   },
@@ -462,12 +314,6 @@
       "net9.0": {
         "targetAlias": "net9.0",
         "dependencies": {
-          "Microsoft.NET.ILLink.Tasks": {
-            "suppressParent": "All",
-            "target": "Package",
-            "version": "[9.0.9, )",
-            "autoReferenced": true
-          },
           "Spectre.Console": {
             "target": "Package",
             "version": "[0.51.1, )"
@@ -484,31 +330,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-            "version": "[9.0.9, 9.0.9]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Runtime.win-x64",
-            "version": "[9.0.9, 9.0.9]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-            "version": "[9.0.9, 9.0.9]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
-      }
-    },
-    "runtimes": {
-      "win-x64": {
-        "#import": []
       }
     }
   }
